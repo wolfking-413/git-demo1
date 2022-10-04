@@ -19,3 +19,5 @@ hello wolfking! hello git!
 hjvnjfhasjdsadjfhdsjl
 一个远程库只能由一个本地库推送
 SSH免密登录
+
+我在GitHub上修改，演示Gitee是否前者更新
