@@ -17,3 +17,4 @@ hello wolfking! hello git!
 
 3333333333333333333333333333
 hjvnjfhasjdsadjfhdsjl
+一个远程库只能由一个本地库推送
